@@ -1,7 +1,0 @@
-name: Leanne Graham
-username: Bret
-street: Kulas Light
-zip code: 92998-3874
-city: Gwenborough
-phone: 1-770-736-8031 x56442
-
